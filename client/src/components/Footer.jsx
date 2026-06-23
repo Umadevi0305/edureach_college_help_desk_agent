@@ -35,7 +35,7 @@ export default function Footer() {
             <div className="space-y-2 text-sm text-gray-400">
               <p>B.Tech (6 specializations)</p>
               <p>M.Tech (3 specializations)</p>
-              <p>MBA (Finance, Marketing, HR, IT)</p>
+              <p>MCA (Finance, Marketing, HR, IT)</p>
               <p>Admissions open: March 1st</p>
             </div>
           </div>
